@@ -1,0 +1,23 @@
+[
+    {
+      "title": "GPT-4 clone",
+      "imageSrc": "projects/project.png",
+      "description": "This project is customized clone of GPT-4.",
+      "skills": ["React", "TailwindCSS", "Node"],
+      "source": "https://github.com/Aditya13134/gpt4_clone"
+    },
+    {
+      "title": "Diabetes Prediction",
+      "imageSrc": "projects/project.png",
+      "description": "This Project predicts the diabetes of person and is based on linear regression.",
+      "skills": ["Python", "Numpy", "Pandas", "Scikit-learn"],
+      "source": "https://github.com/Aditya13134/Diabetes_prediction"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node"],
+      "source": "https://www.github.com"
+    }
+  ]
